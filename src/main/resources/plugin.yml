@@ -1,0 +1,5 @@
+main: dk.minenation.minenationlobby.MNLobby
+name: MineNationLobby-New
+version: 1.0
+author: MineNation Team
+description: The lobby plugin for the new MineNation server
